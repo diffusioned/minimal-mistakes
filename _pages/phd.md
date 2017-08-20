@@ -1,4 +1,5 @@
 ---
+title: "PhD Thesis"
 permalink: /phd/
 ---
 
