@@ -1,14 +1,6 @@
 ---
 layout: post
 title: "Nonlinear Regression Primer"
-description: "A primer on how to use Nonlinear Regression with MATLAB"
-date: 2016-09-05 12:00:00 -0600
-category: Regression
-tags: [Regression, NLLS, Least Squares, Nonlinear]
-comments: false
-image:
-  teaser: NLLSRegressionPrimer400x250.png
-modified: 2016-10-18 12:00:00 -0600
 ---
 
 My first task as a new PhD student was to investigate why a particular Monte Carlo simulation was having problems.  The simulation involved fitting simulated noisy signals with a biexponential model using a Nonlinear Least Squares (NLLS) regression algorithm in [MATLAB](http://www.mathworks.com).  I started out knowing hardly anything about least squares regression, linear or nonlinear, but slowly figured things out along the way.  At first I was interested in solely getting the desired parameters from the algorithm, but after I spent a lot of time stepping through MATLAB’s various NLLS regression functions, mostly [lsqcurvefit](https://www.mathworks.com/help/optim/ug/lsqcurvefit.html), I learned a lot about how these algorithms work and how to diagnose issues with nonlinear models used with them.  For typical NLLS regression problems, you probably won’t be concerned with the inner workings of the algorithm, however, if you are using functions that may have trouble finding a global minimum or are interested in more information than the returned parameter values, such as estimated confidence intervals, this may help you out.
