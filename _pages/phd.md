@@ -1,8 +1,4 @@
 ---
-layout: default
-title: All about my PhD Thesis
-tags: [PhD]
-comments: false
 permalink: /phd/
 ---
 
