@@ -10,7 +10,7 @@ permalink: /phd/
 
 ### History ###
 
-My first task as a new PhD student was to investigate why a particular Monte Carlo simulation was having problems.  The simulation involved fitting artificial noisy signals with a biexponential model using a nonlinear regression algorithm in MATLAB.  This work turned out to form the basis of my PhD thesis/dissertation that I completed four years later.  The title of this thesis is **Reliability and Uncertainty in Diffusion MRI Modelling**.  My thesis is freely available on the University of Sydney online repository [here](http://hdl.handle.net/2123/16060).
+My first task as a new PhD student was to investigate why a particular Monte Carlo simulation was having problems.  The simulation involved fitting artificial noisy signals with a biexponential model using a nonlinear regression algorithm in MATLAB.  This work turned out to form the basis of my PhD thesis/dissertation that I completed four years later in 2016.  The title of this thesis is **Reliability and Uncertainty in Diffusion MRI Modelling**.  My thesis is freely available on the University of Sydney online repository [here](http://hdl.handle.net/2123/16060).
 
 ### Abstract ###
 
