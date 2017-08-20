@@ -1,7 +1,4 @@
 ---
-layout: single
-title: "About Me"
-comments: false
 permalink: /about/
 ---
 ![Blog Author](/images/Author-Pic-250x250.jpg)
