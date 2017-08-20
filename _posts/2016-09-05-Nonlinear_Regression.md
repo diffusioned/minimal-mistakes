@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Nonlinear Regression Primer"
 description: "A primer on how to use Nonlinear Regression with MATLAB"
 date: 2016-09-05
