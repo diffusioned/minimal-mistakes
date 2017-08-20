@@ -1,8 +1,4 @@
 ---
-layout: default
-title: Academic Research Profile
-tags: [research, phd, masters]
-comments: false
 permalink: /research/
 ---
 
