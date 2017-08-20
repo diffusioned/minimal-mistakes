@@ -1,11 +1,10 @@
 ---
+title: "About Me"
 permalink: /about/
 ---
 ![Blog Author](/images/Author-Pic-250x250.jpg)
 
 **"diffusioned"**: *adj.*, the state of mind one experiences after spending *way* too much time reading and thinking about diffusion processes.
-
-## About Me ##
 
 My career spans both industry and academia, involving Medical Imaging, Physics, Computer Science, and Engineering.  I'm interested in Computing, Statistics, Machine Learning, Cryptography, and Digital Security.  My LinkedIn profile is [here](https://www.linkedin.com/in/ned-charles-7b54832).  I was one of those young kids that took everything apart, I managed to fix my [Walkman](https://en.wikipedia.org/wiki/Walkman#Cassette-based) a few times as well as assemble a [HeathKit](http://heathkit.com) or two.  As a teenager I thought a cool job would be a test engineer at [Underwriter's Laboratories](https://www.ul.com/) and always had an affinity for engineering.
 
