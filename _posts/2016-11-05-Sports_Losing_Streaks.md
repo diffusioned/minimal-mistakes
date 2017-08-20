@@ -1,5 +1,4 @@
 ---
-layout: article
 title: "Sports Losing Streaks"
 description: "Some simulations on the frequency of losing streaks and title droughts in sports."
 date: 2016-11-05 12:00:00 -0600
