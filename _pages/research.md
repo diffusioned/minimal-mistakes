@@ -2,8 +2,6 @@
 permalink: /research/
 ---
 
-## Academic Research ##
-
 My publication list is available [here](https://scholar.google.com.au/citations?user=UWC2tnAAAAAJ&hl=en).
 
 ### PhD ###
