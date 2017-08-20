@@ -1,5 +1,4 @@
 ---
-layout: article
 title: "Part 2: The Biexponential Model and Ill-Conditioning"
 description: "An investigation on the biexponential model used with diffusion MRI and how it can exhibit large uncertainty in its parameter estimates"
 date: 2017-07-30 12:00:00 -0400
