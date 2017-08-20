@@ -79,7 +79,7 @@ analytics:
 author:
   name             : "Ned Charles"
   avatar           : /images/Author-Pic-160x160.png # 160x160 px image for author byline
-  bio              : "Software developer, Former PhD Student.  Interested in Computing, Machine Learning, and Statistics."
+  bio              : "Software developer interested in Computing, Machine Learning, and Statistics.  Venturing into Natural Language and Cryptography."
   location         : "Boston, U.S.A."
   email            :
   uri              : "https://diffusioned.github.io"
@@ -175,7 +175,7 @@ sass:
 permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
 paginate_path: /page:num/
-timezone: # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: America/New_York
 
 
 # Plugins
