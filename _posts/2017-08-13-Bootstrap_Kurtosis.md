@@ -1,5 +1,4 @@
 ---
-layout: article
 title: "Part 3: Bootstrap, Graphical Analysis, and Kurtosis"
 description: "This post investigates the bootstrap for its ability to diagnose ill-conditioning, looks at graphical analysis of regression fitting, and examines the kurtosis diffusion MRI model."
 date: 2017-08-13 12:00:00 -0400
