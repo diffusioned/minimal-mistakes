@@ -6,15 +6,15 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-locale                   : "en"
-title                    : "Site Title"
+locale                   : "en-US"
+title                    : "Diffusioned"
 title_separator          : "-"
-name                     : "Your Name"
-description              : "An amazing website."
-url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : "Ned Charles"
+description              : "Computing, Machine Learning, Statistics"
+url                      : "https://diffusioned.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
-teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
+repository               : "diffusioned/diffusioned.github.io"
+teaser                   : "/images/TissueCrop-400x250.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
@@ -55,7 +55,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               :
+  username               : diffusioned
 facebook:
   username               :
   app_id                 :
@@ -77,12 +77,12 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an amazing person."
-  location         : "Somewhere"
+  name             : "Ned Charles"
+  avatar           : /images/Author-Pic-160x160.png # 160x160 px image for author byline
+  bio              : "Software developer, Former PhD Student.  Interested in Computing, Machine Learning, and Statistics."
+  location         : "Boston, U.S.A."
   email            :
-  uri              :
+  uri              : "https://diffusioned.github.io"
   bitbucket        :
   codepen          :
   dribbble         :
@@ -242,6 +242,11 @@ defaults:
       layout: single
       author_profile: true
       read_time: true
-      comments: # true
+      comments: false
       share: true
       related: true
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
