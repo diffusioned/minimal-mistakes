@@ -1,5 +1,4 @@
 ---
-layout: article
 title: "Part 1: My Thesis Introduction"
 description: "A blog post about what my PhD thesis was about"
 date: 2017-05-28 12:00:00 -0400
