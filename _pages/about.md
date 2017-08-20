@@ -3,7 +3,7 @@ permalink: /about/
 ---
 ![Blog Author](/images/Author-Pic-250x250.jpg)
 
-diffusioned: *adj.*, the state of mind one experiences after spending *way* too much time reading and thinking about diffusion processes.
+**"diffusioned"**: *adj.*, the state of mind one experiences after spending *way* too much time reading and thinking about diffusion processes.
 
 ## About Me ##
 
