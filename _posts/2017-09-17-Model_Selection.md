@@ -1,5 +1,4 @@
 ---
-layout: article
 title: "Part 4: Model Selection"
 description: "This post investigates some common model selection methods, and does a detailed analysis of Akaike's Information Criterion (AIC) and how it performs on some diffusion MRI models."
 date: 2017-09-17 12:00:00 -0400
@@ -7,7 +6,7 @@ category: Thesis
 tags: [Diffusion, MRI, NLLS, Kurtosis, Ill-Conditioning, AIC, Model, Selection]
 comments: false
 image:
-  teaser: Bootstrap_Kurtosis-400x250.png
+  teaser: Model_Selection-400x250.png
 modified: 2017-09-17 12:00:00 -0400
 ---
 
