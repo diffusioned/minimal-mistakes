@@ -2,7 +2,7 @@
 title: "Part 3: Bootstrap, Graphical Analysis, and Kurtosis"
 description: "This post investigates the bootstrap for its ability to diagnose ill-conditioning, looks at graphical analysis of regression fitting, and examines the kurtosis diffusion MRI model."
 date: 2017-08-13 12:00:00 -0400
-category: Regression
+category: Thesis
 tags: [Diffusion, MRI, NLLS, Kurtosis, Ill-Conditioning, Bootstrap]
 comments: false
 image:
@@ -10,7 +10,7 @@ image:
 modified: 2017-08-13 12:00:00 -0400
 ---
 
-*This post is the third in a series of posts based on chapters in my PhD [thesis](http://hdl.handle.net/2123/16060).  The first one is [here](https://diffusioned.github.io/thesis/Thesis_Intro/) and the second one is [here](https://diffusioned.github.io/thesis/Biexponential_Model/).*
+*This post is the third in a series of posts based on chapters in my PhD [thesis](http://hdl.handle.net/2123/16060).  The first one is [here](https://diffusioned.github.io/thesis/Thesis_Intro/), the second one is [here](https://diffusioned.github.io/thesis/Biexponential_Model/), and the fourth one is [here](https://diffusioned.github.io/thesis/Model_Selection/).*
 
 In the previous post, I looked at how to tell if the parameter estimates from a statistical model are measuring the true signal or just noise, and usually this is done by taking more measurements.  Since the added noise processes associated with many scientific measurements are effectively Gaussian, which has a distribution with a mean value of zero, as we sample more measurements and average the model parameter estimates obtained, we will hopefully [converge]( https://en.wikipedia.org/wiki/Convergence_of_random_variables) to the true value of this parameter.  Many MRI sequences allow for multiple measurements of each voxel, which are averaged to obtain a better estimate of the signal.  This averaging process, however, leads to longer scan times, which, when dealing with real, live patients, come with a cost of increased likelihood of patient movement.  Instead, during analysis we opt for shorter scan times, and then combine the results of multiple voxels from a patient and combine these as distributions.  This also ensures we have adequate sampling across differences in the tissue, so that our results aren’t affected by [sampling bias](https://en.wikipedia.org/wiki/Sampling_bias).  This is also the reason that most studies involve combining these results across multiple patients, since each patient’s tissue may have different properties.
 
