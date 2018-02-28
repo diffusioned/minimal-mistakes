@@ -18,3 +18,5 @@ The bulk of my experience has been in C++ and C#, developing across the full sta
 ### Other Interests ###
 
 I've spent many an hour listening to ambient music, played a lot of rugby union when I was younger, and I'm also a licensed pilot who likes to get up every now and then for some "aerial therapy".
+
+If you are interested in talking about my research work or tech background, you can contact me via email: nedcharles44 [at] gmail.com
